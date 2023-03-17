@@ -1,0 +1,25 @@
+.cabeça{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 13px 13px 50px yellow;
+}
+.not{
+    font-size: 15px;
+}
+.rodapé{
+    position: fixed;
+    background-color: cyan;
+    color: chocolate;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    text-align: center;
+}
+canvas{
+    border-width: 5px;
+    border-color: greenyellow;
+    border-radius: 20px;
+    box-shadow: 13px 13px 50px green;
+    background-color: rgb(251, 242, 244);
+}
